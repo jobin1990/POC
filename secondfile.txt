@@ -1,0 +1,6 @@
+this is my second file
+I made changes on secondfile
+hi how are you
+I am fine
+This is my last change
+stash
